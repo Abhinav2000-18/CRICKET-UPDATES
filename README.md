@@ -69,22 +69,20 @@
     <div class="container">
         <div class="news">
             <h2>Match Updates</h2>
-            <p>Australia and India are battling it out in the third Test of the Border-Gavaskar Trophy. With thrilling performances from top players, Day 2 has concluded with India holding a slight advantage. Ravindra Jadeja’s all-round brilliance continues to shine, while Steve Smith’s captaincy has been a talking point.</p>
-            <img src="https://example.com/cricket-match.jpg" alt="Cricket match action">
-            <p><a href="https://www.espncricinfo.com/" target="_blank">Read the full match report on ESPN Cricinfo</a></p>
+            <p> match ended in a drw but there were many things for watchout Australia and India are battling it out in the third Test of the Border-Gavaskar Trophy. With thrilling performances from top players, Day 2 has concluded with India holding a slight advantage. overall kl rahul and jadega has done phenomel batting while bumrah took an slight advantage of swing and his so teammates came into action meanwhile for australia there was theor great travis head and steve smith in batting with good perfomance by alex carry and starc in the bowling .</p>
+            
         </div>
 
         <div class="news">
             <h2>Player Highlights</h2>
-            <p>Virat Kohli has scored a resilient half-century under challenging conditions, stabilizing the Indian innings. For Australia, Nathan Lyon’s exceptional bowling figures (5 wickets) have kept his team in contention.</p>
-            <img src="https://example.com/virat-kohli.jpg" alt="Virat Kohli in action">
-            <p>Don’t miss the exciting battle between bat and ball as the series heats up!</p>
+            <p>kl rahul and jadega has scored a resilient half-century under challenging conditions, stabilizing the Indian innings. For Australia, starc exceptional bowling figures (5 wickets) have kept his team in contention.</p>
+         
         </div>
 
         <div class="news">
             <h2>Upcoming Fixtures</h2>
-            <p>The fourth Test will be held at Ahmedabad, with both teams preparing to bring their A-game. Follow live updates and expert analysis as we inch closer to the decider.</p>
-            <img src="https://example.com/ahmedabad-stadium.jpg" alt="Ahmedabad Cricket Stadium">
+            <p>The fourth Test will be held at mcg cricket ground, with both teams preparing to bring their A-game. Follow live updates and expert analysis as we inch closer to the decider.</p>
+   
         </div>
 
         <div class="news">
