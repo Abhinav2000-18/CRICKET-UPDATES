@@ -96,3 +96,31 @@
     </footer>
 </body>
 </html>
+<div class="container">
+    <div class="news">
+        <h2>Match Updates</h2>
+        <p> match ended in a drw but there were many things for watchout Australia and India are battling it out in the third Test of the Border-Gavaskar Trophy. With thrilling performances from top players, Day 2 has concluded with India holding a slight advantage. overall kl rahul and jadega has done phenomel batting while bumrah took an slight advantage of swing and his so teammates came into action meanwhile for australia there was theor great travis head and steve smith in batting with good perfomance by alex carry and starc in the bowling .</p>
+        
+    </div>
+
+    <div class="news">
+        <h2>Player Highlights</h2>
+        <p>kl rahul and jadega has scored a resilient half-century under challenging conditions, stabilizing the Indian innings. For Australia, starc exceptional bowling figures (5 wickets) have kept his team in contention.</p>
+     
+    </div>
+
+    <div class="news">
+        <h2>Upcoming Fixtures</h2>
+        <p>The fourth Test will be held at mcg cricket ground, with both teams preparing to bring their A-game. Follow live updates and expert analysis as we inch closer to the decider.</p>
+
+    </div>
+
+    <div class="news">
+        <h2>Producer: Abhinav Singh</h2>
+        <p>All rights reserved. Proudly crafted by Abhinav Singh.</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Cricket Updates by Abhinav Singh. All Rights Reserved.</p>
+</footer>
